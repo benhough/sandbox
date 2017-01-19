@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_UnrcMd6MEea4IbxoXnguDQ" label="My_GIT_Project" description="" language="java" technicalLabel="MY_GIT_PROJECT" creationDate="2017-01-19T16:13:04.008-0500" author="_UnrcMt6MEea4IbxoXnguDQ" productVersion="Talend Data Fabric-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/benhough/sandbox.git&quot;,&quot;login&quot;:&quot;benhough&quot;,&quot;passwd&quot;:&quot;GAlBlg/nZMfUturwAD/UaQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_UnrcMt6MEea4IbxoXnguDQ" login="bhough@talend.com" firstName="Ben" lastName="Hough" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
